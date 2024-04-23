@@ -13,6 +13,7 @@ var jokes []string = []string{
 	"Chuck Norris can dribble a bowling ball.",
 	"If you want a list of Chuck Norris' enemies, just check the extinct species list.",
 	"Chuck Norris once shot an enemy plane down with his finger, by yelling,'Bang!'.",
+	"Chuck Norris has a grizzly bear rug in his bedroom. It's not dead. It's just too scared to move.",
 }
 
 func main() {
